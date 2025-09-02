@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
+* Post Graduate degree in Public Administrations and Management
+* Degree in Social Sciences
+* 90 days Data Analytics Training
+  
+# Skills and tools
+Tools: SQL, Excel, Power BI
+Skills: Cleaning, processing and analyzing datasets. I create reports and dashboards that communicate insights effectively.
 
-<!--
-**TEDDY-CAROLINE/TEDDY-CAROLINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
+View my projects on [link](https://github.com/TEDDY-CAROLINE)
 
-Here are some ideas to get you started:
+# Connect with me on
+Linkedin [link](https://www.linkedin.com/in/teddy-caroline-nabachwa)
+Email: teddykarolyna@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
