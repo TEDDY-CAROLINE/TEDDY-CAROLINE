@@ -11,7 +11,8 @@ Skills: Cleaning, processing and analyzing datasets. I create reports and dashbo
 View my projects on [link](https://github.com/TEDDY-CAROLINE)
 
 # Connect with me on
-Linkedin [link](https://www.linkedin.com/in/teddy-caroline-nabachwa)
+Linkedin [link](https://www.linkedin.com/in/teddy-caroline-nabachwa-74908228a)
+
 Email: teddykarolyna@gmail.com 
 
  
